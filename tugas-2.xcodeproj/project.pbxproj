@@ -11,6 +11,7 @@
 		5A5136A02930EC590041AF56 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A51369F2930EC590041AF56 /* ContentView.swift */; };
 		5A5136A22930EC5A0041AF56 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A5136A12930EC5A0041AF56 /* Assets.xcassets */; };
 		5A5136A52930EC5A0041AF56 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A5136A42930EC5A0041AF56 /* Preview Assets.xcassets */; };
+		5A5136AC2931001D0041AF56 /* BottomSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A5136AB2931001D0041AF56 /* BottomSheet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5A51369F2930EC590041AF56 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5A5136A12930EC5A0041AF56 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5A5136A42930EC5A0041AF56 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5A5136AB2931001D0041AF56 /* BottomSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomSheet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				5A51369D2930EC590041AF56 /* tugas_2App.swift */,
+				5A5136AB2931001D0041AF56 /* BottomSheet.swift */,
 				5A51369F2930EC590041AF56 /* ContentView.swift */,
 				5A5136A12930EC5A0041AF56 /* Assets.xcassets */,
 				5A5136A32930EC5A0041AF56 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5A5136A02930EC590041AF56 /* ContentView.swift in Sources */,
+				5A5136AC2931001D0041AF56 /* BottomSheet.swift in Sources */,
 				5A51369E2930EC590041AF56 /* tugas_2App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
